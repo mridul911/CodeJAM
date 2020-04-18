@@ -3,3 +3,8 @@ then we have other file which basically help to create a GUI and takes input fro
 it then sort out people having a certain blood group into other csv file from which we can send email to person in that list using function (send email)
 
 blood group and name changes in mail as given by user......
+
+
+stufftoPlot contains information of all students with there usermail and blood group
+
+maillist contains A+ blood group people mail id ... here blood group changes as you can reciever's blood group
